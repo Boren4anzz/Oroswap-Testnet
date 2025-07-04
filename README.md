@@ -76,7 +76,7 @@ node index.js
 ## ✅ Tips Penggunaan
 
 - Pastikan saldo cukup untuk swap & LP (minimal \~0.4 ZIG dan ORO).
-- Periksa hasil swap dan LP di [Zigchain Explorer](https://explorer.testnet.zigchain.com).
+- Periksa hasil swap dan LP di [Zigchain Explorer](https://zigscan.org/).
 - Jangan jalankan multiple instance bersamaan di wallet sama.
 
 ---
